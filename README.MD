@@ -19,9 +19,9 @@
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Google AI Studio Pro](https://www.midjourney.com/app/)
+- [Google AI Studio Pro](https://aistudio.google.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Clipchamp](https://www.capcut.com/pt-br/)
+- [Clipchamp](https://clipchamp.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
